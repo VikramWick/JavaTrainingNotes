@@ -21,3 +21,6 @@ If there is no context Switching by default it adopts round robbin technique.
 In java the priority is from 0 to 10 it is not considered during execution.
 
 When one thread calls another thread there is a possibility 
+
+Question:
+Write a program for Sorting algorithms
